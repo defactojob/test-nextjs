@@ -25,9 +25,7 @@ const Index = () => (
       <Image src="/static/icons/nextjs-logo.svg" alt="next.js logo" layout="fill" />
     </div>
 
-    <h2 className="mt-4 text-xl font-semibold sm:text-3xl">
-      Full-featured template for JAMstack websites.
-    </h2>
+    <h2 className="mt-4 text-xl font-semibold sm:text-3xl">Pretty cool right?</h2>
     <p className="mt-4 text-sm sm:text-lg">
       Everything you need to develop, test, deploy and monitor a fast and robust web
       application.
